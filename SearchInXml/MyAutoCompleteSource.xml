@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyAutoCompleteSourcesList MinUsedTimes="2">
+  <Group Name="aaa">
+    <Item UsedTimes="3" Code="2117447212">/aaa/bbb[@att]</Item>
+    <Item UsedTimes="4" Code="2113450880">/aaa/bbb/@att</Item>
+  </Group>
+  <Group Name="MyAutoCompleteSourcesList">
+    <Item UsedTimes="3" Code="-567439355">/MyAutoCompleteSourcesList/@MinUsedTimes</Item>
+    <Item UsedTimes="1" Code="900803832">/MyAutoCompleteSourcesList/Group/@Name</Item>
+    <Item UsedTimes="1" Code="780434426">/MyAutoCompleteSourcesList/Group/Item</Item>
+  </Group>
+</MyAutoCompleteSourcesList>
